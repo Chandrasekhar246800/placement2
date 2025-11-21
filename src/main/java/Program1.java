@@ -29,5 +29,6 @@ class Son1 extends Father{
 class Son2 extends Father{
 	void bike(){
 		System.out.println("RC KTM 390");
+		System.out.println("Inherited Bike:");
 	}
 }
